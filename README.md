@@ -15,7 +15,6 @@ Este projeto visa a criação de um template que possa ser utilizado no momento 
 ### Dependências utilizadas
 
 - [react]()
-
 - [react-native]()
 - [axios]()
 - [immer]()
@@ -38,25 +37,25 @@ Este projeto visa a criação de um template que possa ser utilizado no momento 
 
 ### Dependências de desenvolvimento
 
-[@babel/core]()
-[@babel/runtime]()
-[@react-native-community/eslint-config]()
-[babel-jest]()
-[babel-plugin-root-import]()
-[eslint]()
-[eslint-config-airbnb]()
-[eslint-config-prettier]()
-[eslint-import-resolver-babel-plugin-root-import]()
-[eslint-plugin-import]()
-[eslint-plugin-jsx-a11y]()
-[eslint-plugin-prettier]()
-[eslint-plugin-react]()
-[eslint-plugin-react-native]()
-[jest]()
-[jetifier]()
-[prettier]()
-[metro-react-native-babel-preset]()
-[react-test-renderer]()
+- [@babel/core]()
+- [@babel/runtime]()
+- [@react-native-community/eslint-config]()
+- [babel-jest]()
+- [babel-plugin-root-import]()
+- [eslint]()
+- [eslint-config-airbnb]()
+- [eslint-config-prettier]()
+- [eslint-import-resolver-babel-plugin-root-import]()
+- [eslint-plugin-import]()
+- [eslint-plugin-jsx-a11y]()
+- [eslint-plugin-prettier]()
+- [eslint-plugin-react]()
+- [eslint-plugin-react-native]()
+- [jest]()
+- [jetifier]()
+- [prettier]()
+- [metro-react-native-babel-preset]()
+- [react-test-renderer]()
 
 <!-- GETTING STARTED -->
 
