@@ -14,48 +14,48 @@ Este projeto visa a criação de um template que possa ser utilizado no momento 
 
 ### Dependências utilizadas
 
-[react][]
-[react-native][]
-[axios][]
-[immer][]
-[prop-types][]
-[react-native-gesture-handler][]
-[react-native-linear-gradient][]
-[react-native-reanimated][]
-[react-native-vector-icons][]
-[react-navigation][]
-[react-navigation-stack][]
-[react-navigation-tabs][]
-[react-redux][]
-[reactotron-react-native][]
-[reactotron-redux][]
-[reactotron-redux-saga][]
-[redux][]
-[redux-persist][]
-[redux-saga][]
-[styled-components][]
+[react]()
+[react-native]()
+[axios]()
+[immer]()
+[prop-types]()
+[react-native-gesture-handler]()
+[react-native-linear-gradient]()
+[react-native-reanimated]()
+[react-native-vector-icons]()
+[react-navigation]()
+[react-navigation-stack]()
+[react-navigation-tabs]()
+[react-redux]()
+[reactotron-react-native]()
+[reactotron-redux]()
+[reactotron-redux-saga]()
+[redux]()
+[redux-persist]()
+[redux-saga]()
+[styled-components]()
 
 ### Dependências de desenvolvimento
 
-[@babel/core][]
-[@babel/runtime][]
-[@react-native-community/eslint-config][]
-[babel-jest][]
-[babel-plugin-root-import][]
-[eslint][]
-[eslint-config-airbnb][]
-[eslint-config-prettier][]
-[eslint-import-resolver-babel-plugin-root-import][]
-[eslint-plugin-import][]
-[eslint-plugin-jsx-a11y][]
-[eslint-plugin-prettier][]
-[eslint-plugin-react][]
-[eslint-plugin-react-native][]
-[jest][]
-[jetifier][]
-[prettier][]
-[metro-react-native-babel-preset][]
-[react-test-renderer][]
+[@babel/core]()
+[@babel/runtime]()
+[@react-native-community/eslint-config]()
+[babel-jest]()
+[babel-plugin-root-import]()
+[eslint]()
+[eslint-config-airbnb]()
+[eslint-config-prettier]()
+[eslint-import-resolver-babel-plugin-root-import]()
+[eslint-plugin-import]()
+[eslint-plugin-jsx-a11y]()
+[eslint-plugin-prettier]()
+[eslint-plugin-react]()
+[eslint-plugin-react-native]()
+[jest]()
+[jetifier]()
+[prettier]()
+[metro-react-native-babel-preset]()
+[react-test-renderer]()
 
 <!-- GETTING STARTED -->
 
