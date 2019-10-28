@@ -14,26 +14,27 @@ Este projeto visa a criação de um template que possa ser utilizado no momento 
 
 ### Dependências utilizadas
 
-[react]();
-[react-native]();
-[axios]();
-[immer]();
-[prop-types]();
-[react-native-gesture-handler]();
-[react-native-linear-gradient]();
-[react-native-reanimated]();
-[react-native-vector-icons]();
-[react-navigation]();
-[react-navigation-stack]();
-[react-navigation-tabs]();
-[react-redux]();
-[reactotron-react-native]();
-[reactotron-redux]();
-[reactotron-redux-saga]();
-[redux]();
-[redux-persist]();
-[redux-saga]();
-[styled-components]();
+- [react]()
+
+- [react-native]()
+- [axios]()
+- [immer]()
+- [prop-types]()
+- [react-native-gesture-handler]()
+- [react-native-linear-gradient]()
+- [react-native-reanimated]()
+- [react-native-vector-icons]()
+- [react-navigation]()
+- [react-navigation-stack]()
+- [react-navigation-tabs]()
+- [react-redux]()
+- [reactotron-react-native]()
+- [reactotron-redux]()
+- [reactotron-redux-saga]()
+- [redux]()
+- [redux-persist]()
+- [redux-saga]()
+- [styled-components]()
 
 ### Dependências de desenvolvimento
 
