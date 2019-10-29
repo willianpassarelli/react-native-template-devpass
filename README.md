@@ -10,7 +10,7 @@
 
 ## Sobre o Projeto
 
-Este projeto visa a criação de um template que possa ser utilizado no momento de criação de projetos utilizando React Native, visto que o processo de instalação e configuração das libs no início de um projeto podem gerar certa complexidade e muitas vezes até erros que atrasam o processo, atrapalhando assim o fluxo de desenvolvimento.
+Este projeto visa a criação de um template que possa ser utilizado no momento de criação de projetos utilizando React Native, pois o processo de instalação e configuração das libs no início de um projeto é repetitivo e constumamos a utilizar as mesmas estruturas.
 
 ### Dependências utilizadas
 
