@@ -87,7 +87,7 @@ template
 │   ├── services/
 │   │   └── api.js
 │   ├── store/
-│   │   ├── /modules
+│   │   ├── modules/
 │   │   │   └── rootReducer.js
 │   │   │   └── rootSaga.js
 │   │   └── index.js
