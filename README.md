@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
+    <img src="https://user-images.githubusercontent.com/26445991/67727135-f6256f00-f9c6-11e9-9921-701cf1cb7e2b.png" alt="Logo">
   </a>
 
   <h3 align="center">Template Devpass</h3>
@@ -76,7 +76,7 @@ react-native init AwesomeExample --template devpass
 A estrutura de arquivos está da seguinte maneira:
 
 ```bash
-rocketseat-advanced
+template
 ├── src/
 │   ├── config/
 │   │   └── ReactotronConfig.js
