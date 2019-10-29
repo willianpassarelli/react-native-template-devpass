@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/26445991/67727135-f6256f00-f9c6-11e9-9921-701cf1cb7e2b.png" alt="Logo">
+    <img src="https://user-images.githubusercontent.com/26445991/67727135-f6256f00-f9c6-11e9-9921-701cf1cb7e2b.png" height="100" alt="Logo">
   </a>
 
   <h3 align="center">Template Devpass</h3>
