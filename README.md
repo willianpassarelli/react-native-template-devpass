@@ -69,6 +69,15 @@ Este projeto visa a criação de um template que possa ser utilizado no momento 
 react-native init AwesomeExample --template devpass
 ```
 
+2. Altere o nome do seu projeto como exemplo acima (AwesomeExemple) no arquivo app.json
+
+```
+{
+  "name": "template",
+  "displayName": "template"
+}
+```
+
 ---
 
 ### Estrutura de Arquivos
